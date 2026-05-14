@@ -5,4 +5,5 @@ Welcome to **IT Fundamentals**, a simple educational website introducing the bas
 ---
 
 ## 🌐 Live Website
-Visit the site here: https://onrythegoat.github.io/it-fundamentals-website/
+Visit the site here: [https://onrythegoat.github.io/it-fundamentals-website/
+](https://onrythegoat.github.io/it-fundamentals-website/)
